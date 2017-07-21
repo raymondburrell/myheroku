@@ -12,7 +12,7 @@ Install
 
 Using git
 ```bash
-$ git clone https://github.com/samayo/bulletproof.git
+$ git clone https://github.com/raymondburrell/myheroku.git
 ```
 Or composer
 ```bash
